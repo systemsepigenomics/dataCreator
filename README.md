@@ -1,8 +1,8 @@
 # dataCreator
 
 Software corresponding to Publication: 
-Quality assessment of transcriptome data using intrinsic statistical properties.
+Generation of synthetic transcriptome data with defined statistical properties for the development and testing of new analysis methods.
 
-Brysbaert G, Pellay FX, Noth S, Benecke A.
+Brysbaert G, Noth S, Benecke A.
 
-Genomics Proteomics Bioinformatics. 2010 Mar;8(1):57-71. doi: 10.1016/S1672-0229(10)60006-X.
+Genomics Proteomics Bioinformatics. 2007 Feb;5(1):45-52.
